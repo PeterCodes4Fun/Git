@@ -1,0 +1,1 @@
+print("Isnt' it obvious?")
